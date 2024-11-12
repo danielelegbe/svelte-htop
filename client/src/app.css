@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html {
+	--color-primary: #2274a5;
+	--color-secondary: #e7dfc6;
+}
+
+body {
+	color: white;
+	background-color: #131b23;
+}
